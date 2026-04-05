@@ -13,6 +13,10 @@ Clean and responsive UI following Material Design
 provider – State management
 cupertino_icons – iOS style icons
 flutter material – UI components
+git clone https://github.com/yourusername/todo-app.git
+cd todo-app
+flutter pub get
+flutter run
 
 <img width="210" height="461" alt="Screenshot 2026-04-05 210144" src="https://github.com/user-attachments/assets/b82259f7-7419-49f1-86f9-c5d63f848e01" />
 <img width="210" height="464" alt="Screenshot 2026-04-05 210118" src="https://github.com/user-attachments/assets/245559ad-1116-4e97-a9c4-959191473248" />
