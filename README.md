@@ -1,16 +1,19 @@
-# todo
+📝 To-Do App
 
-A new Flutter project.
+A simple task management mobile application built using Flutter and Dart.
+The app allows users to add, view, and delete tasks while demonstrating state management using the Provider (Flutter package).
 
-## Getting Started
+✨ Features
+Add new tasks
+Delete completed tasks
+Dynamic task list updates
+State management using Provider
+Clean and responsive UI following Material Design
+📦 Packages Used
+provider – State management
+cupertino_icons – iOS style icons
+flutter material – UI components
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="210" height="461" alt="Screenshot 2026-04-05 210144" src="https://github.com/user-attachments/assets/b82259f7-7419-49f1-86f9-c5d63f848e01" />
+<img width="210" height="464" alt="Screenshot 2026-04-05 210118" src="https://github.com/user-attachments/assets/245559ad-1116-4e97-a9c4-959191473248" />
+<img width="208" height="463" alt="Screenshot 2026-04-05 205945" src="https://github.com/user-attachments/assets/52b3fbfc-06c4-4635-b3ef-2b3e19e224b5" />
